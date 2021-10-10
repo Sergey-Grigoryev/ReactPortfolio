@@ -17,5 +17,8 @@
   "bugs": {
     "url": "https://github.com/Sergey-Grigoryev/ReactPortfolio/issues"
   },
-  "homepage": "https://sergey-grigoryev.github.io/ReactPortfolio/"
+  "homepage": "https://sergey-grigoryev.github.io/ReactPortfolio/",
+  "devDependencies": {
+    "gh-pages": "^3.2.3"
+  }
 }
